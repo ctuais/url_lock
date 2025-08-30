@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-STREAM-INF:BANDWIDTH=620400,FRAME-RATE=30.000000,RESOLUTION=640x360,CLOSED-CAPTIONS=NONE,CODECS="avc1.64001f,mp4a.40.2"
+https://venevision-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=1425600,FRAME-RATE=30.000000,RESOLUTION=960x540,CLOSED-CAPTIONS=NONE,CODECS="avc1.64001f,mp4a.40.2"
+https://venevision-ioriver-cdn.encoders.immergo.tv/1/streamPlaylist.m3u8
+
+
+
