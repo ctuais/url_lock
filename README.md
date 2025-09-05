@@ -1,2 +1,2 @@
 Pi-Hole URL List to Lock
-https://raw.githubusercontent.com/ctuais/url_lock/refs/heads/main/url_lock
+https://raw.githubusercontent.com/ctuais/url_lock/main/url_lock
